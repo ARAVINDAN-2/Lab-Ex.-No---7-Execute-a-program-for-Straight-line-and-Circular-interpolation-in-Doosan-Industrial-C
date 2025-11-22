@@ -1,6 +1,6 @@
 # Lab-Ex.-No---5-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-cobot
-# Name:P.Senthil Arunachalam
-# Reg No:212224240147
+# Name:ARAVINDAN SD
+# Reg No:212224243001
 ## Aim : 
 To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
